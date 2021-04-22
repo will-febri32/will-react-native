@@ -1,5 +1,10 @@
+import React from 'react';
+
+// Screens.
+import Splash from './screens/Splash';
+
 const App = () => {
-  return null;
+  return <Splash></Splash>;
 };
 
 export default App;
